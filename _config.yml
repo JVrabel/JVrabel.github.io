@@ -11,6 +11,7 @@ title                    : "Jakub Vrabel"
 title_separator          : "-"
 name                     : &name "Jakub Vrabel"
 description              : &description "Ph.D. candidate working on ML&Physics."
+theme                    : minima
 url                      : https://jvrabel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jvrabel/jvrabel.github.io"
