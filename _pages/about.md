@@ -10,12 +10,11 @@ redirect_from:
 
 This is Jakub Vrabel's personal website.
 
-Research projects
+Research interests
+======
+Selected projects
 ======
 +Lorem ipsum.
 ------
 +Lorem ipsum.
 
-**Markdown generator**
-
-+Lorem ipsum.

@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Physics 1"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Seminars"
+permalink: /teaching/winter-teaching-1
+venue: "Brno University of Technology, Institute of Physical Engineering and Nanotechnology"
+date: 2020-01-01
+location: "Brno, Czech Republic"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Theoretical seminars for introductory physics course (classical mechanics & thermodynamics).
 
 Heading 1
 ======
