@@ -22,7 +22,7 @@ Selected projects
 ---
 
 ### Project 1 Title
-![Project 1 Image](//images/image-alignment-300x200.jpg)
+![Project 1 Image](/images/image-alignment-300x200.jpg)
   
 Description for project 1...
 
