@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Jakub Vrabel's personal website.
+The site is under construction! 
 
 Research interests
 ======
