@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The site is under construction! 
+The site is under construction! Sorry for (temporarily) limited information.
 
 Research interests
 ======
