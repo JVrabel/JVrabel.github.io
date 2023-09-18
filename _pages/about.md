@@ -12,12 +12,14 @@ The site is under construction! Sorry for (temporarily) limited information.
 
 ---
 **Research interests**
+
 ---
 **Current projects**
+
 ---
 <div style="display: flex;">
   <!-- Image on the left -->
-  <img src="/images/sparsity_custom.png" alt="Description" style="width: 250px; height: auto;">
+  <img src="/images/sparsity_custom.png" alt="Description" style="width: 250px; height: 150;">
 
   <!-- Content on the right -->
   <div style="margin-left: 30px;">
@@ -29,7 +31,7 @@ The site is under construction! Sorry for (temporarily) limited information.
 ---
 <div style="display: flex;">
   <!-- Image on the left -->
-  <img src="/images/double_descent.png" alt="Description" style="width: 250px; height: auto;">
+  <img src="/images/double_descent.png" alt="Description" style="width: 250px; height: 150;">
 
   <!-- Content on the right -->
   <div style="margin-left: 30px;">
@@ -41,7 +43,7 @@ The site is under construction! Sorry for (temporarily) limited information.
 ---
 <div style="display: flex;">
   <!-- Image on the left -->
-  <img src="/images/spectra_init_final.png" alt="Description" style="width: 250px; height: auto;">
+  <img src="/images/weight_initialization.png" alt="Description" style="width: 250px; height: 150;">
 
   <!-- Content on the right -->
   <div style="margin-left: 30px;">
@@ -51,10 +53,11 @@ The site is under construction! Sorry for (temporarily) limited information.
 </div>
 ---
 **Selected past projects**
+
 ---
 <div style="display: flex;">
   <!-- Image on the left -->
-  <img src="/images/spectra_transfer.png" alt="Description" style="width: 250px; height: auto;">
+  <img src="/images/spectra_transfer.png" alt="Description" style="width: 250px; height: 150;">
 
   <!-- Content on the right -->
   <div style="margin-left: 30px;">
