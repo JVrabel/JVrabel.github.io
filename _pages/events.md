@@ -42,7 +42,7 @@ author_profile: true
 * 2020
   * LIBS2020 (Kyoto, JP) - online talk
   * IOM-LIBS (fully-online) - online talk
-*2019
+* 2019
   * EMSLIBS (Brno, CZ) - poster, talk
 * 2017
   * EMSLIBS (Pisa, IT) - poster
