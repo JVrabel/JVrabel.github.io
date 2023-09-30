@@ -10,8 +10,22 @@ redirect_from:
 
 The site is under construction! Sorry for (temporarily) limited information.
 
+I am a Ph.D. candidate in applied physics at [CEITEC]: https://www.ceitec.eu/ in the Czech Republic. My research focuses on interpretable machine learning (ML) applied to spectroscopic data and physics-inspired learning. Lately, I've been delving into ML foundations, where I work on sparsity (lottery tickets), overparametrization (NTK, double descent, mode connectivity), and general interpretability.
+
+When I'm not busy with ML experiments, you can find me bouldering or cycling on a gravel bike. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
+
 ---
 **Research interests**
+
+* Machine learning foundations
+  * overparametrization, double descent, NTK 
+  * loss-landscape symmetries, mode connectivity
+  * sparsity, lottery tickets
+* ANN interpretability (for spectroscopic data)
+  * feature visualization, optimal manifold
+  * sparsity for (mechanistic) interpretability
+  * custom loss penalization 
+
 
 ---
 **Current projects**
@@ -63,7 +77,7 @@ The site is under construction! Sorry for (temporarily) limited information.
   <div style="margin-left: 30px;">
     <h3>Spectral library transfer between two LIBS systems</h3>  <!-- Title -->
     <p>We utilized a composed model (VAE+MLP) to transfer spectra between two distinct instruments.</p>  <!-- Description -->
-    <a href="DOI	https://doi.org/10.1039/D2JA00406B">Paper</a> | <a href="https://github.com/LIBS-ML-team/libs-transfer-library">Code</a>  <!-- Links -->
+    <a href="https://doi.org/10.1039/D2JA00406B">Paper</a> | <a href="https://github.com/LIBS-ML-team/libs-transfer-library">Code</a>  <!-- Links -->
   </div>
 </div>
 ---
