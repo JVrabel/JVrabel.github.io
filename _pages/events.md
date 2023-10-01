@@ -26,7 +26,7 @@ author_profile: true
   * Arnold Sommerfeld Centre Summer School - Physics meets AI (Munich, DE)
   * Erwin Schrödinger Institute Summer School – Machine Learning for Materials Hard and Soft (Vienna, AT)
 * 2021
-  * Machine Learning in Quantum Physics and Chemistry Summer School
+  * Machine Learning in Quantum Physics and Chemistry Summer School (Warsaw, PL)
 
 **Conferences and workshops**
 

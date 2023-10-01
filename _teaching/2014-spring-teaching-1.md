@@ -2,19 +2,14 @@
 title: "Physics 2"
 collection: teaching
 type: "Seminars"
-permalink: /teaching/spring-teaching-1
+permalink: /teaching/physics2
 venue: "Brno University of Technology, Institute of Physical Engineering and Nanotechnology"
-date: 2019-01-01
+date: 
 location: "Brno, Czech Republic"
 ---
 
 Theoretical seminars for introductory physics course (electricity & magnetism).
 
-Heading 1
-======
+[Excercises](http://physics.fme.vutbr.cz/ufi.php?Action=0&Id=86) (only in Czech)
 
-Heading 2
-======
-
-Heading 3
-======
+[Points](http://physics.fme.vutbr.cz/bodyf2)

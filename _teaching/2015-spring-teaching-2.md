@@ -2,19 +2,14 @@
 title: "Physics 1"
 collection: teaching
 type: "Seminars"
-permalink: /teaching/winter-teaching-1
+permalink: /teaching/physics1
 venue: "Brno University of Technology, Institute of Physical Engineering and Nanotechnology"
-date: 2020-01-01
+date: 
 location: "Brno, Czech Republic"
 ---
 
 Theoretical seminars for introductory physics course (classical mechanics & thermodynamics).
 
-Heading 1
-======
+[Excercises](http://physics.fme.vutbr.cz/ufi.php?Action=0&Id=97) (only in Czech)
 
-Heading 2
-======
-
-Heading 3
-======
+[Points](http://physics.fme.vutbr.cz/bodyf2)
