@@ -4,7 +4,7 @@ collection: teaching
 type: "Seminars"
 permalink: /teaching/pave
 venue: "Brno University of Technology, Institute of Physical Engineering and Nanotechnology"
-date: 
+date: 2023-01-01
 location: "Brno, Czech Republic"
 ---
 
