@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://jvrabel.github.io/files/CV_JV_2page_sept2023.pdf) (last updated: Sept. 2023)
+[Download CV here](http://jvrabel.github.io/files/CV_JV_2page_dec2023.pdf) (last updated: Sept. 2023)
 
 <!-- Education
 ======

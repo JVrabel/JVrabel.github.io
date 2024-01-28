@@ -12,7 +12,7 @@ The site is under construction! Sorry for (temporarily) limited information.
 
 I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in the Czech Republic. My research focuses on interpretable machine learning (ML) applied to spectroscopic data and physics-inspired learning. Lately, I've been delving into ML foundations, where I work on sparsity (lottery tickets), overparametrization (NTK, double descent, mode connectivity), and general interpretability.
 
-When I'm not busy with ML experiments, you can find me bouldering or cyclings. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
+When I'm not busy with ML experiments, you can find me bouldering or cycling. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
 
 ---
 **Research interests**
