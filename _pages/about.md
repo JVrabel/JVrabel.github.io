@@ -10,7 +10,7 @@ redirect_from:
 
 (The site is under construction! Sorry for (temporarily) limited information.)
 
-NEW: For the summer 2024 I am a visiting Ph.D. student at KASL $\subset$ ML group $\subset$ CBL $\subset$ University of Cambridge, working on input space mode connectivity (advised by D. Krueger).
+NEW: For the summer of 2024, I am a visiting Ph.D. student at [KASL](https://www.kasl.ai/) $\subset$ [ML group](https://mlg.eng.cam.ac.uk/) $\subset$ CBL $\subset$ University of Cambridge, working on input space mode connectivity (advised by D. Krueger).
 
 I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in the Czech Republic. My research focuses on interpretable machine learning (ML) applied to spectroscopic data and physics-inspired learning. Lately, I am mostly interested in understanding deep learning through empirical and theoretical methods, usually grounded in physics. The main motivation is to achieve interpretable and safe ML/AI for science and general use. This includes various topics in overparametrization, sparsity and adversarial robustness of deep networks.
 
