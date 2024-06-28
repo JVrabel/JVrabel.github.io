@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-The site is under construction! Sorry for (temporarily) limited information.
+(The site is under construction! Sorry for (temporarily) limited information.)
 
-I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in the Czech Republic. My research focuses on interpretable machine learning (ML) applied to spectroscopic data and physics-inspired learning. Lately, I've been delving into ML foundations, where I work on sparsity (lottery tickets), overparametrization (NTK, double descent, mode connectivity), and general interpretability.
+NEW: For the summer 2024 I am a visiting Ph.D. student at KASL $\subset$ ML group $\subset$ CBL $\subset$ University of Cambridge, working on input space mode connectivity (advised by D. Krueger).
+
+I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in the Czech Republic. My research focuses on interpretable machine learning (ML) applied to spectroscopic data and physics-inspired learning. Lately, I am mostly interested in understanding deep learning through empirical and theoretical methods, usually grounded in physics. The main motivation is to achieve interpretable and safe ML/AI for science and general use. This includes various topics in overparametrization, sparsity and adversarial robustness of deep networks.
 
 When I'm not busy with ML experiments, you can find me bouldering or cycling. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
 
