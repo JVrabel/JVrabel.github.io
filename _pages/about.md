@@ -28,6 +28,7 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 
 ---
 **Research interests**
+---
 
 * Machine learning foundations
   * overparametrization, double descent, NTK 
@@ -39,6 +40,8 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
   * custom loss penalization 
 * AI safety
   * LLM jailbreaking (defenses)
+
+
 ---
 **Current projects**
 ---
