@@ -18,8 +18,8 @@ Prior to that, I worked on interpretable machine learning applied to spectroscop
 
 When I'm not busy with ML experiments, you can find me bouldering or cycling. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
 
----
-{: .notice--info}
+<div class="news-section" markdown="1">
+
 ## News
 
 **Jan. 2025:** Input space mode connectivity was accepted to ICLR 2025.
@@ -31,6 +31,18 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 **June 2024:** I am visiting [KASL](https://www.kasl.ai/) $\subset$ [CBL](https://mlg.eng.cam.ac.uk/), University of Cambridge for four months.
 
 **May 2024:** I will be at [Youth in High Dimensions](https://indico.ictp.it/event/10478) workshop at ICTP in Trieste, Italy.
+
+</div>
+
+<style>
+.news-section {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    margin: 20px 0;
+}
+</style>
 
 ---
 **Research interests**
