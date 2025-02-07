@@ -96,7 +96,7 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 
   </div>
 </div>
-
+---
 **Selected past projects**
 
 ---
