@@ -29,7 +29,7 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 
 **Aug. 2024:** I am attending the [IAIFI summer school](https://iaifi.org/phd-summer-school.html) and [workshop](https://iaifi.org/summer-workshop.html) at MIT, where I will give a talk on input space mode connectivity.
 
-**June 2024:** I am visiting [KASL](https://www.kasl.ai/) $\subset$ [CBL](https://mlg.eng.cam.ac.uk/), University of Cambridge for four months (advised by D. Krueger).
+**June 2024:** I am visiting [KASL](https://www.kasl.ai/) $\subset$ [CBL](https://mlg.eng.cam.ac.uk/), University of Cambridge for four months.
 
 **May 2024:** I will be at [Youth in High Dimensions](https://indico.ictp.it/event/10478) workshop at ICTP in Trieste, Italy.
 
