@@ -19,7 +19,6 @@ Prior to that, I worked on interpretable machine learning applied to spectroscop
 When I'm not busy with ML experiments, you can find me bouldering or cycling. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
 
 <div class="news-section" markdown="1">
-
 ## News
 
 **Jan. 2025:** Input space mode connectivity was accepted to ICLR 2025.
@@ -40,7 +39,7 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
     padding: 20px;
     border-radius: 5px;
     font-size: 0.9em;
-    margin: 20px 0;
+    /* margin: 5px 0; */
 }
 </style>
 
