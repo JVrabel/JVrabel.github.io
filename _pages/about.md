@@ -20,16 +20,18 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 
 ---
 **News**
-* Jan. 2025: Input space mode connectivity was accepted to ICLR 2025.
-* Oct. 2024: Input space mode connectivity was accepted for an [oral presentation](https://neurips.cc/virtual/2024/workshop/84741#collapse-sl-109173) at [SciForDL](https://scienceofdlworkshop.github.io/) at NeurIPS 2024.
-* Aug. 2024: I am attending the [IAIFI summer school](https://iaifi.org/phd-summer-school.html) and [workshop](https://iaifi.org/summer-workshop.html) at MIT, where I will give a talk on input space mode connectivity.
-* June 2024: I am visiting [KASL](https://www.kasl.ai/) $\subset$ [CBL](https://mlg.eng.cam.ac.uk/), University of Cambridge for four months (advised by D. Krueger).
-* May 2024: I will be at [Youth in High Dimensions](https://indico.ictp.it/event/10478) workshop at ICTP in Trieste, Italy.
+*Jan. 2025:* Input space mode connectivity was accepted to ICLR 2025.
+
+*Oct. 2024:* Input space mode connectivity was accepted for an [oral presentation](https://neurips.cc/virtual/2024/workshop/84741#collapse-sl-109173) at [SciForDL](https://scienceofdlworkshop.github.io/) at NeurIPS 2024.
+
+*Aug. 2024:* I am attending the [IAIFI summer school](https://iaifi.org/phd-summer-school.html) and [workshop](https://iaifi.org/summer-workshop.html) at MIT, where I will give a talk on input space mode connectivity.
+
+*June 2024:* I am visiting [KASL](https://www.kasl.ai/) $\subset$ [CBL](https://mlg.eng.cam.ac.uk/), University of Cambridge for four months (advised by D. Krueger).
+
+*May 2024:* I will be at [Youth in High Dimensions](https://indico.ictp.it/event/10478) workshop at ICTP in Trieste, Italy.
 
 ---
 **Research interests**
----
-
 * Machine learning foundations
   * overparametrization, double descent, NTK 
   * loss-landscape symmetries, mode connectivity
@@ -44,7 +46,6 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 
 ---
 **Current projects**
----
 <div style="display: flex;">
   <!-- Image on the left -->
   <img src="/images/mode_connectivity.png" alt="Description" style="width: 250px; height: 150;">
