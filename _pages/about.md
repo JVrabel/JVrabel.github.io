@@ -36,7 +36,7 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 <style>
 .news-section {
     background-color: #f8f8f8;
-    /* padding: 20px; */
+    padding: 5px;
     border-radius: 5px;
     font-size: 0.9em;
     /* margin: 5px 0; */
