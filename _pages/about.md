@@ -96,18 +96,7 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 
   </div>
 </div>
----
-<div style="display: flex;">
-  <!-- Image on the left -->
-  <img src="/images/weight_initialization.png" alt="Description" style="width: 250px; height: 150;">
 
-  <!-- Content on the right -->
-  <div style="margin-left: 30px;">
-    <h3>Weight initialization with simulated spectra</h3>  <!-- Title -->
-    <p>We initialize MLP weights for the first layer with simulated pure-element spectra and mixtures to guide the model towards physics-relevant solutions.</p>  <!-- Description -->
-  </div>
-</div>
----
 **Selected past projects**
 
 ---
