@@ -10,11 +10,21 @@ redirect_from:
 
 (The site is under construction! Sorry for (temporarily) limited information.)
 
-NEW: For the summer of 2024, I am a visiting Ph.D. student at [KASL](https://www.kasl.ai/) $\subset$ [ML group](https://mlg.eng.cam.ac.uk/) $\subset$ CBL $\subset$ University of Cambridge, working on input space mode connectivity (advised by D. Krueger).
 
-I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in the Czech Republic. My research focuses on interpretable machine learning (ML) applied to spectroscopic data and physics-inspired learning. Lately, I am mostly interested in understanding deep learning through empirical and theoretical methods, usually grounded in physics. The main motivation is to achieve interpretable and safe ML/AI for science and general use. This includes various topics in overparametrization, sparsity and adversarial robustness of deep networks.
+I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in Brno, Czech Republic. I also collaborate with [KASL](https://www.kasl.ai/) and was previously a visiting Ph.D. student at the University of Cambridge, advised by David Krueger.
+
+My current research focuses on foundational topics in machine learning (ML), where I am mostly interested in understanding deep learning through empirical and theoretical methods, usually grounded in physics. The main motivation is to achieve interpretable and safe ML/AI for science and general use. My work includes various topics in overparameterization, loss-landscape geometry, sparsity, and adversarial robustness of deep networks.
+Prior to that, I worked on interpretable machine learning applied to spectroscopic data and physics-inspired learning.
 
 When I'm not busy with ML experiments, you can find me bouldering or cycling. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
+
+---
+**News**
+* Jan. 2025: Input space mode connectivity was accepted to ICLR 2025.
+* Oct. 2024: Input space mode connectivity was accepted for an [oral presentation](https://neurips.cc/virtual/2024/workshop/84741#collapse-sl-109173) at [SciForDL](https://scienceofdlworkshop.github.io/) at NeurIPS 2024.
+* Aug. 2024: I am attending the [IAIFI summer school](https://iaifi.org/phd-summer-school.html) and [workshop](https://iaifi.org/summer-workshop.html) at MIT, where I will give a talk on input space mode connectivity.
+* June 2024: I am visiting [KASL](https://www.kasl.ai/) $\subset$ [CBL](https://mlg.eng.cam.ac.uk/), University of Cambridge for four months (advised by D. Krueger).
+* May 2024: I will be at [Youth in High Dimensions](https://indico.ictp.it/event/10478) workshop at ICTP in Trieste, Italy.
 
 ---
 **Research interests**
@@ -27,10 +37,23 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
   * feature visualization, optimal manifold
   * sparsity for (mechanistic) interpretability
   * custom loss penalization 
-
-
+* AI safety
+  * LLM jailbreaking (defenses)
 ---
 **Current projects**
+---
+<div style="display: flex;">
+  <!-- Image on the left -->
+  <img src="/images/mode_connectivity.png" alt="Description" style="width: 250px; height: 150;">
+
+  <!-- Content on the right -->
+  <div style="margin-left: 30px;">
+    <h3>Input space mode connectivity</h3>  <!-- Title -->
+    <p>We generalized the concept of loss landscape mode connectivity to the input space of deep neural networks.</p>  <!-- Description -->
+    <a href="https://openreview.net/forum?id=3qeOy7HwUT">ICLR</a> | <a href="https://arxiv.org/abs/2409.05800">arXiv</a> | <a href="https://neurips.cc/virtual/2024/workshop/84741#collapse-sl-109173">Talk (D. Krueger)</a>  <!-- Links -->
+  </div>
+</div>
+---
 
 ---
 <div style="display: flex;">
